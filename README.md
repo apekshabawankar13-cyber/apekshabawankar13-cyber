@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# apekshabawankar13-cyber
+
+Welcome to the **apekshabawankar13-cyber** repository!
+
+## About
+
+This repository contains projects and code related to cybersecurity, hacking, or any other cyber-related work by Apeksha Bawankar.  
+*(You can update this section to describe the purpose of your repo more specifically.)*
+
+## Features
+
+- Cybersecurity scripts and tools
+- Ethical hacking resources
+- Security analysis and tutorials
+
+## Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/apekshabawankar13/apekshabawankar13-cyber.git
